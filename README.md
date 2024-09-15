@@ -1,7 +1,7 @@
 # MakeOhio2024
 Make Ohio project with Team 30 - NoName
 
-Second Place Winnter for HONDA Challenge
+Second Place Winner for HONDA Challenge
 https://hack.osu.edu/make/2024/#winners-page
 
 Presentation on YouTube
